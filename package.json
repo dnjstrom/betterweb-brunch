@@ -1,0 +1,24 @@
+{
+  "name": "AppName",
+  "version": "0.0.0",
+  "description": "AppName website.",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "start": "brunch watch --server",
+    "postinstall": "bower install"
+  },
+  "dependencies": {
+    "auto-reload-brunch": "latest",
+    "javascript-brunch": "latest",
+    "uglify-js-brunch": "latest",
+    "jshint-brunch": "latest",
+    "stylus-brunch": "latest",
+    "css-brunch": "latest",
+    "brunch": "latest",
+    "bower": "latest"
+  }
+}
